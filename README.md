@@ -3,7 +3,7 @@
 ```js
   const wesdell {
   pronouns = "he" | "him",
-  code = [HTML, CSS]
+  code = [HTML, CSS, JavaScript]
   }
   
 Hello! My name is Edwin Sebastian Guerrero Pesantez. I'm 18 years. I'm from Ecuador. 
