@@ -1,9 +1,9 @@
 # Hey 👋 I'm Wesdell 👨‍💻
 
 ```js
-  const wesdell {
-  pronouns = "he" | "him",
-  code = [HTML, CSS, JavaScript, React]
+  const wesdell = {
+  pronouns: "he" | "him",
+  code: ["Frontend": {tech: "HTML CSS JavaScript React React-Router Redux"}, Backend: {tech: "In cooming"}]
   }
   
 Hello! My name is Edwin Sebastian Guerrero Pesantez. I'm 18 years. I'm from Ecuador. 
