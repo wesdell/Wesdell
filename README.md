@@ -3,7 +3,8 @@
 ```js
   const wesdell = {
   pronouns: "he" | "him",
-  code: ["Frontend": {tech: "JavaScript TypeScript React React-Router Redux TailwindCSS"}, "Backend": {tech: "NodeJS, Express, PostgreSQL"}]
+  codeFront: ["Frontend": {tech: "JavaScript TypeScript React React-Router Redux TailwindCSS"}],
+  codeBack: ["Backend": {tech: "NodeJS, Express, PostgreSQL"}]
   }
   
 Hello! My name is Edwin Sebastian Guerrero Pesantez. I'm 18 years. I'm from Ecuador. 
