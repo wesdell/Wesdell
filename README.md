@@ -7,11 +7,11 @@
   codeBack: ["Backend": {tech: "NodeJS, Express, PostgreSQL"}]
   }
   
-Hello! My name is Edwin Sebastian Guerrero Pesantez. I'm 18 years. I'm from Ecuador. 
-With a vision of becoming a FullStack Developer.
-
-I am a young man who seeks to improve himself every day. 
-I seek to strengthen and discover new skills. I am convinced that the path to success involves a difficult process, 
-but that the results are wonderful.
-
+ 
 I want to have well-being and generate it for others. It's my purpose.
+  
+Front-end knowledge of Javascript, React, Typescript, TailwindCSS, and Redux.
+Back-end expertise using Node.js/Express, Auth, Security, and RESTful APIs.
+Relational and nonrelational database administration using MongoDB and PostgreSQL.
+Strong understanding of different programming paradigms, software architecture, and responsive design especially mobile first.
+Positive attitude, strong work ethic, and high professional integrity.
