@@ -8,6 +8,7 @@
   codeFront: ["Frontend": {tech: "JavaScript, React, Jest, TailwindCSS, NodeJS, PostgreSQL, MongoDB, NextJS"}],
   codeBack: ["Backend": {tech: "NodeJS, Express, PostgreSQL"}]
   }
+  ```
   
  ### You can find me 🌎:
  - [LinkedIn](https://www.linkedin.com/in/sebastianguerrero17/)
