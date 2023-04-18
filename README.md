@@ -14,6 +14,11 @@
   <img src="https://komarev.com/ghpvc/?username=wesdell&style=flat-square&color=blue" alt="views"/>
 </div>
 
+### About me 👨‍💻:
+<h2 align="center">
+  A passionate Fullstack Developer from Ecuador, Zamora.
+</h2>
+
 ![wesdell logo](https://media.licdn.com/dms/image/C4E16AQGL77PSlseMfw/profile-displaybackgroundimage-shrink_350_1400/0/1661873369456?e=1687392000&v=beta&t=5jrBYfZwb4D2SjX7IbK7m-76YzOui39bKvHOGc26ZfA)
 
 ### Skills 💻:
