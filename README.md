@@ -30,5 +30,6 @@
 </p>
 
 ### GitHub stats ⭐:
-
-![Wesdell GitHub stats](https://github-readme-stats.vercel.app/api?username=wesdell&show_icons=true&theme=tokyonight)
+<div align="center">
+  ![Wesdell GitHub stats](https://github-readme-stats.vercel.app/api?username=wesdell&show_icons=true&theme=tokyonight)
+</div>
