@@ -1,17 +1,17 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Coder image" />
 </div>
 
 <h1 align="center">
   Hi, I'm Sebastián Guerrero
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving hand emoji" />
 </h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sebastianguerrero17/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=wesdell&style=flat-square&color=blue" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=wesdell&style=flat-square&color=blue" alt="Views wesdell profile"/>
 </div>
 
 ### About me 👨‍💻:
@@ -31,5 +31,5 @@
 
 ### GitHub stats ⭐:
 <div align="center">
-  ![Wesdell GitHub stats](https://github-readme-stats.vercel.app/api?username=wesdell&show_icons=true&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api?username=wesdell&show_icons=true&theme=tokyonight" alt="Wesdell github stats" />
 </div>
