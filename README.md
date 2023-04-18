@@ -14,4 +14,6 @@
  
  - [LinkedIn](https://www.linkedin.com/in/sebastianguerrero17/)
 
+### GitHub stats ⭐:
+
 ![Wesdell GitHub stats](https://github-readme-stats.vercel.app/api?username=wesdell&show_icons=true&theme=tokyonight)
