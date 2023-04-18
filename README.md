@@ -1,17 +1,13 @@
-# Hey 👋 I'm Wesdell 👨‍💻
+## Hey 👋 I'm Wesdell 👨‍💻
+
+![wesdell logo](https://media.licdn.com/dms/image/C4E16AQGL77PSlseMfw/profile-displaybackgroundimage-shrink_350_1400/0/1661873369456?e=1687392000&v=beta&t=5jrBYfZwb4D2SjX7IbK7m-76YzOui39bKvHOGc26ZfA)
 
 ```js
   const wesdell = {
   pronouns: "he" | "him",
-  codeFront: ["Frontend": {tech: "JavaScript TypeScript React React-Router Redux TailwindCSS"}],
+  codeFront: ["Frontend": {tech: "JavaScript, React, Jest, TailwindCSS, NodeJS, PostgreSQL, MongoDB, NextJS"}],
   codeBack: ["Backend": {tech: "NodeJS, Express, PostgreSQL"}]
   }
   
- 
-I want to have well-being and generate it for others. It's my purpose.
-  
-Front-end knowledge of Javascript, React, Typescript, TailwindCSS, and Redux.
-Back-end expertise using Node.js/Express, Auth, Security, and RESTful APIs.
-Relational and nonrelational database administration using MongoDB and PostgreSQL.
-Strong understanding of different programming paradigms, software architecture, and responsive design especially mobile first.
-Positive attitude, strong work ethic, and high professional integrity.
+ ### You can find me 🌎:
+ - [LinkedIn](https://www.linkedin.com/in/sebastianguerrero17/)
