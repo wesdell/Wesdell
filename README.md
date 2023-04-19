@@ -16,7 +16,7 @@
 
 ### About me 👨‍💻:
 <h2 align="center">
-  A passionate Fullstack Developer from Ecuador, Zamora.
+  I am a Full Stack Developer passionate about programming and adding value to my team and the project with my best weapons, self-learning and communication.
 </h2>
 
 ![wesdell logo](https://media.licdn.com/dms/image/C4E16AQGL77PSlseMfw/profile-displaybackgroundimage-shrink_350_1400/0/1661873369456?e=1687392000&v=beta&t=5jrBYfZwb4D2SjX7IbK7m-76YzOui39bKvHOGc26ZfA)
