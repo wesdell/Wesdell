@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,nodejs,ts,py,tailwind,postgres,express,mongo,next,ghactions" />
+    <img src="https://skillicons.dev/icons?i=git,js,nodejs,ts,py,tailwind,postgres,express,mongo,next,ghactions" alt="technologies list" />
   </a>
 </p>
 
@@ -33,3 +33,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wesdell&show_icons=true&theme=tokyonight" alt="Wesdell github stats" />
 </div>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wesdell&show_icons=true&theme=radical&locale=en&layout=compact" alt="wesdell most used languages" /></p> 
