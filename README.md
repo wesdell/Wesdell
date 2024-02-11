@@ -16,10 +16,10 @@
 
 ### About me 👨‍💻:
 <h3 align="center">
-  I am a Full Stack Developer passionate about programming and adding value to my team and the project with my best weapons, self-learning and communication.
+  Desarrollador Full Stack y estudiante de Ingeniería en Software. La dedicación y el aprendizaje autónomo forjan mi camino.
 </h3>
 
-![wesdell logo](https://media.licdn.com/dms/image/C4E16AQGL77PSlseMfw/profile-displaybackgroundimage-shrink_350_1400/0/1661873369456?e=1687392000&v=beta&t=5jrBYfZwb4D2SjX7IbK7m-76YzOui39bKvHOGc26ZfA)
+![wesdell logo]([https://media.licdn.com/dms/image/C4E16AQGL77PSlseMfw/profile-displaybackgroundimage-shrink_350_1400/0/1661873369456?e=1687392000&v=beta&t=5jrBYfZwb4D2SjX7IbK7m-76YzOui39bKvHOGc26ZfA](https://media.graphassets.com/VZLqbi9XTM2q9bToozOh))
 
 ### Skills 💻:
 
