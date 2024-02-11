@@ -14,14 +14,14 @@
   <img src="https://komarev.com/ghpvc/?username=wesdell&style=flat-square&color=blue" alt="Views wesdell profile"/>
 </div>
 
-### About me 👨‍💻:
+### Acerca de 👨‍💻:
 <h3 align="center">
   Desarrollador Full Stack y estudiante de Ingeniería en Software. La dedicación y el aprendizaje autónomo forjan mi camino.
 </h3>
 
 ![wesdell logo](https://media.graphassets.com/VZLqbi9XTM2q9bToozOh)
 
-### Skills 💻:
+### Habilidades 💻:
 
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL"/></code>
@@ -50,7 +50,7 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" alt="CI/CD" title="CI/CD"/></code>
 </div>
 
-### GitHub stats ⭐:
+### Estadísticas de GitHub ⭐:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wesdell&show_icons=true&theme=tokyonight" alt="Wesdell github stats" />
 </div>
