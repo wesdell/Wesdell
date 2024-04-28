@@ -55,6 +55,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=wesdell&show_icons=true&theme=tokyonight" alt="Wesdell github stats" />
 </div>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wesdell&show_icons=true&theme=radical&locale=en&layout=compact" alt="wesdell most used languages" /></p> 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wesdell&show_icons=true&theme=radical&locale=en&layout=compact&langs_count=10" alt="wesdell most used languages" /></p> 
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wesdell&theme=dark&mode=weekly" alt="weekly contributions" /></p>
