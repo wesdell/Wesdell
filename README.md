@@ -8,7 +8,7 @@
 </h1>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sebastianguerrero17/">
+  <a href="https://www.linkedin.com/in/sebastianguerrero17/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=wesdell&style=flat-square&color=blue" alt="Views wesdell profile"/>
