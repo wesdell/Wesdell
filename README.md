@@ -50,8 +50,8 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" alt="CI/CD" title="CI/CD"/></code>
 </div>
 
-### Estadísticas de GitHub & LeetCorde ⭐:
+### Estadísticas de GitHub & LeetCode ⭐:
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wesdell&show_icons=true&theme=radical&locale=en&layout=compact&langs_count=10" alt="wesdell most used languages" /></p> 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wesdell&show_icons=true&theme=radical&locale=en&layout=compact&langs_count=10" alt="Wesdell's most used languages" /></p> 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/wesdell17)]
+<p align="center"><img align="center" src="https://leetcard.jacoblin.cool/wesdell17" alt="Wesdell's LeetCode stats" /></p>
