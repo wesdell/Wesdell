@@ -54,4 +54,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wesdell&show_icons=true&theme=radical&locale=en&layout=compact&langs_count=10" alt="wesdell most used languages" /></p> 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/wesdell17)](https://leetcode.com/wesdell17)
+![LeetCode Stats](https://leetcard.jacoblin.cool/wesdell17)]
