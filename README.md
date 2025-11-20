@@ -16,7 +16,7 @@
 
 ### Acerca de 👨‍💻:
 <h3 align="center">
-  Ingeniero en Software y Desarrollador Full-Stack. Dedicación y aprendizaje autónomo.
+  Ingeniero en Software y Desarrollador Backend. Dedicación y aprendizaje autónomo.
 </h3>
 
 ![wesdell logo](https://media.graphassets.com/VZLqbi9XTM2q9bToozOh)
