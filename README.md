@@ -10,7 +10,7 @@
 
 ### Acerca de:
 <h3 align="center">
-  Ingeniero en Software y Desarrollador Backend. Dedicación y aprendizaje autónomo.
+Ingeniero de Software especializado en desarrollo Backend e integración de sistemas en AWS, con sólida experiencia implementando arquitecturas de software y buenas prácticas de programación. Experiencia desarrollando pruebas para respaldar el desarrollo de software seguro, documentación de proyectos y despliegue. Gran capacidad de comunicación y resolución de problemas.
 </h3>
 
 ### Habilidades:
