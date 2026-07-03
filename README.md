@@ -45,5 +45,7 @@
 </div>
 
 ### GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=wesdell&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=wesdell&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=wesdell&theme=dark&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=wesdell&layout=compact&theme=dark&hide_border=true" />
+</p>
