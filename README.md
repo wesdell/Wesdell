@@ -8,14 +8,12 @@
   </a>
 </div>
 
-### Acerca de 👨‍💻:
+### Acerca de:
 <h3 align="center">
   Ingeniero en Software y Desarrollador Backend. Dedicación y aprendizaje autónomo.
 </h3>
 
-![wesdell logo](https://media.graphassets.com/VZLqbi9XTM2q9bToozOh)
-
-### Habilidades 💻:
+### Habilidades:
 
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL"/></code>
@@ -45,3 +43,7 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" alt="CI/CD" title="CI/CD"/></code>
 </div>
+
+### GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=wesdell&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=wesdell&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
