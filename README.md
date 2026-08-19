@@ -48,15 +48,9 @@ Ingeniero de Software especializado en desarrollo Backend e integración de sist
 
 <p align="center">
   <img
-    width="500"
+    width="400"
     src="https://github-readme-stats.shion.dev/api?username=wesdell&theme=dark&show_icons=true&hide_border=true"
     alt="GitHub Stats"
-  />
-
-  <img
-    width="400"
-    src="https://github-stats-extended.vercel.app/api?username=wesdell"
-    alt="GitHub Stats Extended"
   />
 </p>
 
@@ -64,7 +58,7 @@ Ingeniero de Software especializado en desarrollo Backend e integración de sist
 
 <p align="center">
   <img
-    width="500"
+    width="400"
     src="https://github-stats-extended.vercel.app/api/top-langs?username=wesdell&langs_count=6"
     alt="Most Used Languages"
   />
