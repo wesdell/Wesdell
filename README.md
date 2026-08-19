@@ -45,7 +45,9 @@ Ingeniero de Software especializado en desarrollo Backend e integración de sist
 </div>
 
 ### GitHub Stats:
+### GitHub Stats:
+
 <p align="center">
   <img height="170" src="https://github-readme-stats.shion.dev/api?username=wesdell&theme=dark&show_icons=true&hide_border=true" />
-  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=wesdell)](https://github.com/stats-organization/github-stats-extended)
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=wesdell" />
 </p>
